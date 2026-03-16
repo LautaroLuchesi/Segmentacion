@@ -171,7 +171,7 @@ Representan el grupo de mayor valor para la empresa.
 
 ---
 
-###Segmento 2 — Clientes dormidos
+### Segmento 2 — Clientes dormidos
 
 * Hace mucho tiempo que no compran
 

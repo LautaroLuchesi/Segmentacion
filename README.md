@@ -25,7 +25,7 @@ Este gráfico muestra los segmentos de clientes identificados por el modelo de c
 <img src="imagenes/clusters_clientes.png" alt="Clusters de clientes" width="470">
 
 ## Método del codo
-Este gráfico muestra los segmentos de clientes identificados por el modelo de clustering K-Means. Cada color representa un grupo de clientes con comportamientos de compra similares en términos de frecuencia y gasto.
+Este gráfico utiliza el método del codo para determinar el número óptimo de clusters en el modelo.
 
 <img src="imagenes/metodo_codo.png" alt="Método del codo" width="470">
 

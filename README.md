@@ -256,6 +256,7 @@ segmentacion-clientes
 │
 ├── marketing_campaign.csv
 ├── analisis_clientes.py
+├──Imagenes
 └── README.md
 ```
 

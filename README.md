@@ -1,4 +1,4 @@
-# Segmentación de Clientes con RFM y K-Means
+# Segmentación de clientes para optimizar campañas de marketing con RFM y K-Means
 
 ---
 

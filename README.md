@@ -262,10 +262,16 @@ segmentacion-clientes
 
 ---
 
-## Autor
+# Autor
 
-Lautaro Luchesi
-Estudiante de Programación – UTN
-Intereses: Data Analytics, Python y Machine Learning
+**Lautaro Luchesi**
 
-LinkedIn: Lautaro Luchesi
+Actualmente desarrollando proyectos de portafolio orientados a:
+
+- Limpieza y análisis de datos
+- SQL
+- Python (Pandas)
+- Visualización de datos
+
+LinkedIn:  
+https://www.linkedin.com/in/lautaro-luchesi-1b5819329/
